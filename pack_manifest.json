@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "For the people, by the people! Re-experience default with brand new textures",
+        "name": "§aCoterie Craft Frontier 16x",
+        "uuid": "0539a731-4a2a-4454-b5c7-e4c2c73d0df2",
+        "version": [1, 8, 1]
+    },
+    "modules": [
+        {
+            "description": "For the people, by the people! Re-experience default with brand new textures",
+            "type": "resources",
+            "uuid": "4df3d441-6769-423c-8302-1b9cbc5c1e39",
+            "version": [1, 8, 1]
+        }
+    ]
+}
+
+// Created by Cpt. Corn as part of a texture pack series for Minecraft Bedrock and Java Edition.
